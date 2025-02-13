@@ -1,0 +1,99 @@
+navbar-brand {
+	height: 200px;
+	background-image: url('../img/dollar-gc68fb1cdf_1280.jpg');
+	margin-bottom: 30px;
+	position: relative;
+}
+
+header {
+	background-color: #2c3e50;
+	color: white;
+	padding: 20px;
+	text-align: center;
+}
+
+container {
+	width: 90%;
+	max-width: 1200px;
+	margin: auto;
+	padding: 20px;
+}
+
+section {
+	background: white;
+	padding: 20px;
+	margin: 20px 0;
+	border-radius: 8px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+	margin-top: 30px;
+}
+
+.body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	padding-top: 40px;
+	background-color: #f0f0f0;
+}
+
+bold-line {
+	border-top: 2px solid black;
+	/* Creates the horizontal line */
+	font-weight: bold;
+	/* Makes the text bold */
+	text-align: center;
+	/* Centers the text */
+}
+
+centered-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 5vh;
+	text-align: center;
+}
+
+fundo {
+	margin-bottom: 80px;
+}
+
+no-link-style {
+	color: inherit; /* Mantém a cor do texto */
+	text-decoration: none; /* Remove o sublinhado */
+	cursor: default; /* Remove o ponteiro de link */
+}
+
+fixed-banner {
+	position: fixed;
+	top: 60px; /* Ajuste conforme necessário */
+	width: 100%;
+	z-index: 1030;
+	background-color: #f8f9fa; /* Ajuste conforme necessário */
+	padding: 10px 0;
+	border-bottom: 1px solid #e0e0e0; /* Ajuste conforme necessário */
+}
+
+center-box {
+	margin: 1;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 50%;
+	padding: 30px;
+	background-color: #f8f9fa;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	text-align: center;
+}
+
+bg-custom {
+    background-color: #2c3e50 !important;
+}
+
+
+.navbar-collapse {
+    display: block !important;
+}

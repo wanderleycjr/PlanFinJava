@@ -1,0 +1,11 @@
+
+<Context crossContext="true">
+
+<!-- Banco Local -->	
+<Resource name="jdbc/mysql" auh="Container"
+		type="javax.sql.DataSource" minIdle="20" maxIdle="100" maxWait="25000" 
+		username="" password=""
+		driverClassName="com.mysql.cj.jdbc.Driver"
+		url="" />
+
+</Context>
