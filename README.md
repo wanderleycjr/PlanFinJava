@@ -8,6 +8,7 @@ PCmoney é um sistema de planejamento financeiro desenvolvido em Java (Maven) no
 
 ### 🌐 Acesso ao Sistema ###
 - Para visualizar e utilizar o sistema, acesse:
+- Ainda não disponível em celulares e tablets;
   🔗 PCmoney - www.pcmoney.com.br
 
 ### 📂 Tecnologias Utilizadas ###
