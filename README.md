@@ -7,8 +7,8 @@ PCmoney é um sistema de planejamento financeiro desenvolvido em Java (Maven) no
 - Utiliza MySQL como banco de dados, hospedado no cPanel/phpMyAdmin do Host Integrator.
 
 ### 🌐 Acesso ao Sistema ###
+- Ainda não disponível em celulares e tablets, apenas Desktop;
 - Para visualizar e utilizar o sistema, acesse:
-- Ainda não disponível em celulares e tablets;
   🔗 PCmoney - www.pcmoney.com.br
 
 ### 📂 Tecnologias Utilizadas ###
